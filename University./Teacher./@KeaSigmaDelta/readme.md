@@ -1,0 +1,6 @@
+# Home:
+https://www.youtube.com/@KeaSigmaDelta
+
+# Playlist:
+- [CMake Tutorial](https://www.youtube.com/playlist?list=PLORJX3OiHbbOBnj4l5boc1wayYg4wic0O)
+- [CMake](https://www.youtube.com/playlist?list=PLORJX3OiHbbM81z6wfwgS-2g2O0_yn4gG)
